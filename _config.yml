@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Siwen Xie
-tagline:          'Undergraduate'
-description:      'Tong Class, PKU'
+tagline:          ''
+description:      'Undergraduate at Tong Class, PKU'
 url:              https://swxie06.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
