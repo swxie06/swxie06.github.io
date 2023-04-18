@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Profile
 sidebar_link: true
 ---
