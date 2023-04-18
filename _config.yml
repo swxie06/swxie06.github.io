@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 github: #"https://github.com/swxie06"
 email: #"swxie@stu.pku.edu.cn"
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
