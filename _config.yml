@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Siwen Xie
+title:            Lucy Siwen Xie
 tagline:          ''
 description:      'Tong Class, PKU'
 url:              https://swxie06.github.io
@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Siwen Xie'
+  name:           'Lucy Xie'
   url:            https://swxie06.github.io
 
 paginate:         5
